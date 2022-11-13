@@ -18,5 +18,7 @@
 
     Example: MarvelApi.new({character_id: 1011334}).get_all_characters_list
 
-4. Need to run test cases
-    Run the command - ruby test/tc_marvel_api.rb
+# When run the test cases
+
+4. Run the command
+    Example: ruby test/tc_marvel_api.rb
